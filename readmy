@@ -1,0 +1,5 @@
+Python 3.7.6
+pip oauth2client
+pip install --upgrade google-api-python-client
+pip install httplib2
+pip install BeautifulSoup
