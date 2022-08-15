@@ -23,7 +23,7 @@ def main(sitemap_url,domain,url_limit:int = 2000, index_limit:int=200):
 
 
 if __name__ == "__main__":
-    sitemap_url = 'https://bo-pmstan-6192.com/sitemap_teams_ru_0.xml'
-    domain = 'bo-pmstan-6192.com'
+    sitemap_url = 'https://sitema.url'
+    domain = 'domain.name'
     main(sitemap_url, domain, url_limit = 5, index_limit=3)
 
